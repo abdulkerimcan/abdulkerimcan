@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdulkerimcann@outlook.com**
 
-- 📄 Know about my experiences in [**my resume**](/Abdulkerim_Çan_Resume.pdf)
+- 📄 Know about my experiences in [**my resume**](/Abdulkerim_Can_resume.pdf)
 
 - ⚡ Fun fact **I love playing football and tennis.**
 
