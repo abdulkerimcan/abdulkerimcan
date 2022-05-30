@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkerimcan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkerimcan" /> </p>
 
-- 🌱 I’m currently learning **Flutter , Python and .NET with C#.**
+- 🌱 I’m currently learning **Flutter , Python and .NET.**
 
 - 💬 Ask me about **Java**
 
